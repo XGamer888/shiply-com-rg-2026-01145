@@ -1,0 +1,47 @@
+{
+  "RL481528024453": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Braun, Pflegler 4, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Vasyl Dumnyč, Senožaty 181, 394 56 Senožaty, Tschechien",
+    "price": "12.500,00 €",
+    "description": "Hersteller: Tajfun<br>Typ: RCA 400 JOY TG<br>S.N: 261695-0052<br>Baujahr: 2024<br><br>Die Maschine ist voll funktionsfähig.<br>inkl. Tajfun DM 1511 M Hubtisch (2024)",
+    "address": "Vasyl Dumnyč<br>Senožaty 181<br>394 56 Senožaty<br>Tschechien<br>Telefon: +43 664 3411159",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "12.11.2026",
+    "deliveryDate": "18.11.2026",
+    "pickup": {
+      "street": "Hegenheimer Str. 15",
+      "postal_code": "79576",
+      "city": "Weil am Rhein",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
